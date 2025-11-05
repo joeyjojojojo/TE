@@ -670,7 +670,22 @@ Traigan sus ojos Que vamos a mirar. A todos los niños les gusta mirar. Yo miro,
 15 
 we pray TINI's part 
 
-
+Hay que aceptarlo, 
+要学会接受，
+Si nos perdimos, fue tal vez para encontrarnos, 
+若是迷失方向 是为了重遇自己，
+Y nos caemos pa' aprender a levantarnos, 
+我们跌倒是为了学会再次站起，
+Para abrazarnos, 
+相拥彼此，
+Porque vivir es darse cuenta que todo pasa por algo, 
+因为生活让我们明白 一切皆有其意义，
+Y poco a poco ... vamos brindando por los corazones rotos (Ah, yeah, ah, yeah, ah, yeah), 
+慢慢来 举杯敬那些破碎的心灵，
+Y sonriendo, no solo para la foto (Ah, yeah), 
+笑容只留在相片里的身影，
+Todos nosotros, mirando al cielo desde el suelo, somos la misma piel, 
+我们抬头仰望星空 脚踏实地 同享一片天空。
 
 
 
