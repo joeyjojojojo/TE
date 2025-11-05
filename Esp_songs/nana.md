@@ -560,27 +560,110 @@ Que alegría me dio estar aquí
 
 10 
 
-《Todo mi cuerpo》（我的全身） 
+Todo mi cuerpo.
+
+Cabeza, brazos, piernas y pies, piernas y pies. Ojos, orejas, boca y nariz.
+
+Todo mi cuerpo baila así, baila así. Yo muevo mi cuerpo y bailo así.
+
+Cabeza, brazos, piernas y pies, piernas y pies. Ojos, orejas, boca y nariz.
+
+Todo mi cuerpo nada en el mar, nada en el mar. Yo muevo mi cuerpo y nado así.
+
+Brazos, piernas y pies, piernas y pies. Ojos, orejas, boca y nariz.
+
+Cabeza, brazos, piernas y pies, piernas y pies. Ojos, orejas, boca y nariz.
+
+Cabeza, brazos, piernas y pies, piernas y pies. Ojos, orejas, boca y nariz.
+
+
+我的全身。
+
+头、胳膊、腿和脚， 腿和脚。 眼睛、耳朵、嘴和鼻子。
+
+我的全身这样跳舞，这样跳舞。 我活动我的身体，然后这样跳舞。
+
+头、胳膊、腿和脚， 腿和脚。 眼睛、耳朵、嘴和鼻子。
+
+我的全身在海里游泳，在海里游泳。 我活动我的身体，然后这样游泳。
+
+胳膊、腿和脚， 腿和脚。 眼睛、耳朵、嘴和鼻子。
+
+头、胳膊、腿和脚， 腿和脚。 眼睛、耳朵、嘴和鼻子。
+
+头、胳膊、腿和脚， 腿和脚。 眼睛、耳朵、嘴和鼻子。
 
 
 
 11 
-《¡El alfabeto! - Traditional Spanish Alphabet Song》 
+¡El alfabeto! 
+
+A, B, C, Ch, D, E, F, G, H, I, J, K, L, Ll, M, N, Ñ, O, P.
+
+Q, R, S, T, U, V, W, X, Y, Z.
+
+A, B, C, Ch, D, E, F, G, H, I, J, K, L, Ll, M, N, Ñ, O.
+
+P, Q, R, S, T, U, V, W, X, Y, Z.
+
 
 
 
 12 
-《Learn the days of the week: "La Semana" - Calico Spanish Songs for Kids》 
+La Semana 
 
+La semana: Lunes Martes Miércoles Jueves Viernes Sábado Domingo
+
+Lunes, martes, miércoles, jueves, viernes, sábado, domingo.
+
+一周： 星期一 星期二 星期三 星期四 星期五 星期六 星期日
 
 
 13 
-《Learn to count by tens: "Gotas de diez en diez" - Calico Spanish Songs for Kids》 
+Gotas de diez en diez.
 
+Hoy veo el cielo y va a llover. Ya veo las gotas caer y caer.
+
+Diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa.
+
+Hoy veo el cielo y va a llover. Ya veo las gotas caer y caer.
+
+十个十个的雨滴。
+
+今天我看到天空，要下雨了。 我已经看到雨滴落下，落下。
+
+十，二十，三十，四十，五十， 六十，七十，八十，九十。
+
+今天我看到天空，要下雨了。 我已经看到雨滴落下，落下。
 
 
 14 
-《Get Ready to Dance and Sing in Spanish - Traigan sus pies - Calico Spanish Songs for Kids》 
+Traigan sus pies.
 
+Traigan sus orejas Que vamos a escuchar. A todos los niños les gusta escuchar. Yo escucho, yo escucho, Yo escucho sin parar. Yo escucho, yo escucho, Yo escucho sin parar.
+
+Traigan sus bocas Que vamos a cantar. A todos los niños les gusta cantar. Yo canto, yo canto, Yo canto sin parar. Yo canto, yo canto, Yo canto sin parar.
+
+Traigan sus manos Que vamos a aplaudir. A todos los niños les gusta aplaudir. Yo aplaudo, yo aplaudo, Yo aplaudo sin parar. Yo aplaudo, yo aplaudo, Yo aplaudo sin parar.
+
+Traigan sus pies Que vamos a jugar. A todos los niños les gusta jugar. Yo juego, yo juego, Yo juego sin parar. Yo juego, yo juego, Yo juego sin parar.
+
+Traigan sus cuerpos Que vamos a bailar. A todos los niños les gusta bailar. Yo bailo, yo bailo, Yo bailo sin parar. Yo bailo, yo bailo, Yo bailo sin parar.
+
+Traigan sus ojos Que vamos a mirar. A todos los niños les gusta mirar. Yo miro, yo miro, Yo miro sin parar. Yo miro, yo miro, Yo miro sin parar.
+
+带上你们的脚。
+
+带上你们的耳朵， 我们要去听。 所有孩子都喜欢听。 我听，我听， 我不停地听。 我听，我听， 我不停地听。
+
+带上你们的嘴巴， 我们要去唱歌。 所有孩子都喜欢唱歌。 我唱，我唱， 我不停地唱。 我唱，我唱， 我不停地唱。
+
+带上你们的手， 我们要去拍手。 所有孩子都喜欢拍手。 我拍手，我拍手， 我不停地拍手。 我拍手，我拍手， 我不停地拍手。
+
+带上你们的脚， 我们要去玩。 所有孩子都喜欢玩。 我玩，我玩， 我不停地玩。 我玩，我玩， 我不停地玩。
+
+带上你们的身体， 我们要去跳舞。 所有孩子都喜欢跳舞。 我跳舞，我跳舞， 我不停地跳舞。 我跳舞，我跳舞， 我不停地跳舞。
+
+带上你们的眼睛， 我们要去看。 所有孩子都喜欢看。 我看，我看， 我不停地看。 我看，我看， 我不停地看。
 
 
