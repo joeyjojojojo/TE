@@ -359,14 +359,38 @@ Ah.
 
 #### 5
 
+A limpiar.
+
+Con un gratísimo, felicísimo,
+es la hora de limpiar.
+Pongan las cosas en sus lugares,
+¡alegría, alegría, a limpiar!
+¡Alegría, alegría, a limpiar!
+
+Con un gratísimo, felicísimo,
+es la hora de limpiar.
+Pongan las cosas bien en sus lugares,
+¡alegría, alegría, a limpiar!
+¡Alegría, alegría, a limpiar!
+
+Ah.
 
 
+打扫。
 
+带着非常愉快，非常高兴的心情，
+是时候打扫了。
+把东西放回它们的位置，
+高兴，高兴地打扫！
+高兴，高兴地打扫！
 
+带着非常愉快，非常高兴的心情，
+是时候打扫了。
+把东西好好地放回它们的位置，
+高兴，高兴地打扫！
+高兴，高兴地打扫！
 
-
-
-
+啊。
 
 
 ---
@@ -375,22 +399,188 @@ Ah.
 
 #### 6
 
+Las Estaciones
+
+Ahora es primavera  
+ahora es primavera
+Llueve mucho por acá
+Llueve aquí, llueve allá, llueve mucho por acá
+
+Estamos en verano  
+estamos en verano
+Hace calor por acá
+Calor aquí, calor allá, hace calor por acá
+
+Ahora es otoño  
+ahora es otoño
+Hace viento por acá
+Viento aquí, viento allá, hace viento por acá
+
+Ya llegó el invierno 
+ya llegó el invierno
+Hace frío por acá
+Frío aquí, frío allá, hace frío por acá
+
+
+
+---
+
+---
+
+#### 7
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta el **fútbol**.
+Me gusta el **fútbol**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta el **baloncesto**.
+Me gusta el **baloncesto**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta el **béisbol**.
+Me gusta el **béisbol**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta **correr**.
+Me gusta **correr**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta **nadar**.
+Me gusta **nadar**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta **patinar**.
+Me gusta **patinar**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+Me gusta el **tenis**.
+Me gusta el **tenis**.
+
+¿Qué deporte te gusta?
+¿Qué deporte te gusta?
+
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**足球**。
+我喜欢**足球**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**篮球**。
+我喜欢**篮球**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**棒球**。
+我喜欢**棒球**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**跑步**。
+我喜欢**跑步**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**游泳**。
+我喜欢**游泳**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**滑冰/滑旱冰**。
+我喜欢**滑冰/滑旱冰**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+我喜欢**网球**。
+我喜欢**网球**。
+
+你喜欢什么运动？
+你喜欢什么运动？
+
+
+
+
+---
+
+---
+
+#### 8
+
+Los Meses del Año
+
+Enero Febrero Marzo 
+Abril Mayo Junio 
+Julio Agosto Septiembre 
+Octubre Noviembre Diciembre 
+
+
+
+---
+
+---
+
+#### 9
+
+Adiós, es hora de decir adiós
+De la clase de español
+Muchas cosas aprendí, por eso estoy feliz
+Que alegría me dio estar aquí
+
+Adiós, es hora de decir adiós
+De la clase de español
+Muchas cosas aprendí, por eso estoy feliz
+Que alegría me dio estar aquí
 
 
 
 
 
+10 
+
+《Todo mi cuerpo》（我的全身） 
 
 
 
+11 
+《¡El alfabeto! - Traditional Spanish Alphabet Song》 
 
 
 
+12 
+《Learn the days of the week: "La Semana" - Calico Spanish Songs for Kids》 
 
 
 
+13 
+《Learn to count by tens: "Gotas de diez en diez" - Calico Spanish Songs for Kids》 
 
 
+
+14 
+《Get Ready to Dance and Sing in Spanish - Traigan sus pies - Calico Spanish Songs for Kids》 
 
 
 
