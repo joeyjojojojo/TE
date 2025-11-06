@@ -391,17 +391,17 @@ Pongan las cosas bien en sus lugares,
 
 Las Estaciones    
 
-Ahora es primavera pri pri pri      
+Ahora es primavera drip drip drip        
 ahora es primavera    
 Llueve mucho por acá    
 Llueve aquí, llueve allá, llueve mucho por acá    
 
-Estamos en verano fu fu fu      
+Estamos en verano fiu fiu fiu      
 estamos en verano    
 Hace calor por acá    
 Calor aquí, calor allá, hace calor por acá      
 
-Ahora es otoño whos whos whos       
+Ahora es otoño wes wes wes       
 ahora es otoño    
 Hace viento por acá    
 Viento aquí, viento allá, hace viento por acá    
@@ -587,15 +587,16 @@ Cabeza, brazos, piernas y pies, piernas y pies. Ojos, orejas, boca y nariz.
 
 11 
 ¡El alfabeto! 
+        
+A, B, C, Ch, D, E, F, G, H, I, J, K, L, Ll, M, N, Ñ, O, P.    
 
-A, B, C, Ch, D, E, F, G, H, I, J, K, L, Ll, M, N, Ñ, O, P.
+Q, R, S, T, U, V, W, X, Y, Z.    
 
-Q, R, S, T, U, V, W, X, Y, Z.
 
-A, B, C, Ch, D, E, F, G, H, I, J, K, L, Ll, M, N, Ñ, O.
-
-P, Q, R, S, T, U, V, W, X, Y, Z.
-
+ah, be, ce, de, e, efe, ge,     
+hache, i, jota, ka, ele, eme,     
+ene, eñe, o, pe, ku, ere, ese, te,     
+u, uve, uve doble, equis, ye, zeta.    
 
 
 
@@ -695,14 +696,5 @@ Todos nosotros, mirando al cielo desde el suelo, somos la misma piel,
 慢慢来 举杯敬那些破碎的心灵，
 笑容只留在相片里的身影，
 我们抬头仰望星空 脚踏实地 同享一片天空。
-
-
-
-
-
-
-
-
-
 
 
