@@ -1,64 +1,64 @@
 
 ---
-#### 1 
+#### 1  
 
-¡Colores, colores!
+¡Colores, colores!  
 
-Verde, verde, me gusta el verde.
-Verde, verde, es el mejor color.
-Me gusta el verde, ¿sabes por qué?
-Es porque mi papá trabaja en el bosque.
-Me gusta el verde, ¿sabes por qué?
-Es porque mi papá trabaja en el bosque.
+Verde, verde, me gusta el verde.  
+Verde, verde, es el mejor color.  
+Me gusta el verde, ¿sabes por qué?  
+Es porque mi papá trabaja en el bosque.  
+Me gusta el verde, ¿sabes por qué?  
+Es porque mi papá trabaja en el bosque.  
 
-Rojo, rojo, me gusta el rojo.
-Rojo, rojo, es el mejor color.
-Me gusta el rojo, ¿sabes por qué?
-Es porque mi papá es un bombero.
-Me gusta el rojo, ¿sabes por qué?
-Es porque mi papá es un bombero.
+Rojo, rojo, me gusta el rojo.  
+Rojo, rojo, es el mejor color.  
+Me gusta el rojo, ¿sabes por qué?  
+Es porque mi papá es un bombero.  
+Me gusta el rojo, ¿sabes por qué?  
+Es porque mi papá es un bombero.  
 
-Blanco, blanco, me gusta el blanco.
-Blanco, blanco, es el mejor color.
-Me gusta el blanco, ¿sabes por qué?
-Es porque mi papá es panadero.
-Me gusta el blanco, ¿sabes por qué?
-Es porque mi papá es panadero.
+Blanco, blanco, me gusta el blanco.  
+Blanco, blanco, es el mejor color.  
+Me gusta el blanco, ¿sabes por qué?  
+Es porque mi papá es panadero.  
+Me gusta el blanco, ¿sabes por qué?  
+Es porque mi papá es panadero.  
 
-Azul, azul, me gusta el azul.
-Azul, azul, es el mejor color.
-Me gusta el azul, ¿sabes por qué?
-Es porque mi papá es marinero.
-Me gusta el azul, ¿sabes por qué?
-Es porque mi papá es marinero.
+Azul, azul, me gusta el azul.  
+Azul, azul, es el mejor color.  
+Me gusta el azul, ¿sabes por qué?  
+Es porque mi papá es marinero.  
+Me gusta el azul, ¿sabes por qué?  
+Es porque mi papá es marinero.  
 
-Negro, negro, me gusta el negro.
-Negro, negro, es el mejor color.
-Me gusta el negro, ¿sabes por qué?
-Es porque mi papá es minero.
-Me gusta el negro, ¿sabes por qué?
-Es porque mi papá es minero.
+Negro, negro, me gusta el negro.  
+Negro, negro, es el mejor color.  
+Me gusta el negro, ¿sabes por qué?  
+Es porque mi papá es minero.  
+Me gusta el negro, ¿sabes por qué?  
+Es porque mi papá es minero.  
 
-Amarillo, me gusta el amarillo.
-Amarillo, es el mejor color.
-Me gusta el amarillo, ¿sabes por qué?
-Es porque mi papá es taxista.
-Me gusta el amarillo, ¿sabes por qué?
-Es porque mi papá es taxista.
+Amarillo, me gusta el amarillo.  
+Amarillo, es el mejor color.  
+Me gusta el amarillo, ¿sabes por qué?  
+Es porque mi papá es taxista.  
+Me gusta el amarillo, ¿sabes por qué?  
+Es porque mi papá es taxista.  
 
-Anaranjado, me gusta anaranjado.
-Anaranjado, es el mejor color.
-Me gusta el anaranjado, ¿sabes por qué?
-Es porque mi papá siembra naranjas.
-Me gusta el anaranjado, ¿sabes por qué?
-Es porque mi papá siembra naranjas.
+Anaranjado, me gusta anaranjado.  
+Anaranjado, es el mejor color.  
+Me gusta el anaranjado, ¿sabes por qué?  
+Es porque mi papá siembra naranjas.  
+Me gusta el anaranjado, ¿sabes por qué?  
+Es porque mi papá siembra naranjas.  
 
-Colores, colores, me gustan los colores.
-Colores, colores, todos lindos son.
-Me gustan los colores, ¿sabes por qué?
-Es porque mi papá es pintor.
-Me gustan los colores, ¿sabes por qué?
-Es porque mi papá es pintor.
+Colores, colores, me gustan los colores.  
+Colores, colores, todos lindos son.  
+Me gustan los colores, ¿sabes por qué?  
+Es porque mi papá es pintor.  
+Me gustan los colores, ¿sabes por qué?  
+Es porque mi papá es pintor.  
 
 
 颜色，颜色！
@@ -125,49 +125,47 @@ Es porque mi papá es pintor.
 
 #### 2 
 
-Mi Tío Tiene Una Granja 
+Mi Tío Tiene Una Granja   
 
-Mi tío tiene una granja,
-una granja, ¡sí, señor!
-Me invitó a conocer los animales.
+Mi tío tiene una granja, una granja, ¡sí, señor!  
+Me invitó a conocer los animales.  
 
-La vaca hace mu, mu, mu, mu, mu, mu, mu, mu, mu.
-La vaca hace mu, mu, mu, mu, mu, mu.
+La vaca hace mu, mu, mu, mu, mu, mu, mu, mu, mu.  
+La vaca hace mu, mu, mu, mu, mu, mu.  
 
-El cerdo hace oink, oink, oink, oink, oink, oink, oink, oink, oink.
-El cerdo hace oink, oink, oink, oink, oink, oink.
+El cerdo hace oink, oink, oink, oink, oink, oink, oink, oink, oink.  
+El cerdo hace oink, oink, oink, oink, oink, oink.  
 
-El perro hace guau, guau, guau, guau, guau, guau, guau, guau, guau.
-El perro hace guau, guau, guau, guau, guau, guau.
+El perro hace guau, guau, guau, guau, guau, guau, guau, guau, guau.  
+El perro hace guau, guau, guau, guau, guau, guau.  
 
-El gallo hace kikiriki, kikiriki, kikiriki.
-El gallo hace kikiriki, kikiriki.
+El gallo hace kikiriki, kikiriki, kikiriki.  
+El gallo hace kikiriki, kikiriki.  
 
-El pato hace cua, cua, cua, cua, cua, cua, cua, cua, cua.
-El pato hace cua, cua, cua, cua, cua, cua.
+El pato hace cua, cua, cua, cua, cua, cua, cua, cua, cua.  
+El pato hace cua, cua, cua, cua, cua, cua.  
 
-Mi tío tiene una granja,
-una granja, ¡sí, señor!
-Me invitó a conocer los animales.
 
-El burro hace i-ah, i-ah, i-ah.
-El burro hace i-ah, i-ah.
+Mi tío tiene una granja, una granja, ¡sí, señor!  
+Me invitó a conocer los animales.  
 
-El gato hace miau, miau, miau, miau, miau, miau, miau, miau, miau.
-El gato hace miau, miau, miau, miau, miau, miau.
+El burro hace i-ah, i-ah, i-ah.  
+El burro hace i-ah, i-ah.  
 
-El pollito hace pío, pío, pío, pío, pío, pío, pío, pío, pío.
-El pollito hace pío, pío, pío, pío, pío, pío.
+El gato hace miau, miau, miau, miau, miau, miau, miau, miau, miau.  
+El gato hace miau, miau, miau, miau, miau, miau.  
 
-El caballo hace ni, ni, ni.
-El caballo hace ni, ni.
+El pollito hace pío, pío, pío, pío, pío, pío, pío, pío, pío.  
+El pollito hace pío, pío, pío, pío, pío, pío.  
 
-La oveja hace be, be, be.
-La oveja hace be, be.
+El caballo hace ni, ni, ni.  
+El caballo hace ni, ni.  
 
-Mi tío tiene una granja,
-una granja, ¡sí, señor!
-Me invitó a conocer los animales.
+La oveja hace be, be, be, be, be, be, be, be, be.  
+La oveja hace be, be, be, be, be, be.  
+
+Mi tío tiene una granja, una granja, ¡sí, señor!  
+Me invitó a conocer los animales.  
 
 
 我叔叔有一个农场，
@@ -219,34 +217,34 @@ Me invitó a conocer los animales.
 
 #### 3
 
-Hola a todos.
-Hola a todos, buenos días.
-Buenos días, buenos días.
+Hola a todos.  
+Hola a todos, buenos días.   
+Buenos días, buenos días.  
 
-Hola a todos, buenos días.
-Buenos días, buenos días.
-Hola.
+Hola a todos, buenos días.  
+Buenos días, buenos días.  
+Hola.  
 
-¿Cómo estás?
-Yo estoy muy bien.
-Vamos a empezar la clase de español.
+¿Cómo estás?  
+Yo estoy muy bien.  
+Vamos a empezar la clase de español.  
 
-Alegres vamos a estar,
-porque nos gusta mucho cantar.
+Alegres vamos a estar,  
+porque nos gusta mucho cantar.  
 
-Hola.
-¿Cómo estás?
-Yo estoy muy bien.
+Hola.  
+¿Cómo estás?  
+Yo estoy muy bien.  
 
-Vamos a empezar la clase de español.
-Alegres vamos a estar,
-porque nos gusta mucho cantar.
+Vamos a empezar la clase de español.  
+Alegres vamos a estar,  
+porque nos gusta mucho cantar.  
 
-¡Hola a todos!
-Empecemos, empecemos, empecemos.
+¡Hola a todos!  
+Empecemos, empecemos, empecemos.  
 
-¡Hola a todos!
-Empecemos, empecemos, empecemos.
+¡Hola a todos!  
+Empecemos, empecemos, empecemos.  
 
 
 大家好。
@@ -284,74 +282,70 @@ Empecemos, empecemos, empecemos.
 
 #### 4
 
-Cuenten conmigo.
+Cuenten conmigo.  
 
-Con mis dedos contaré.
-Con mis dedos contaré.
-Con mis dedos contaré.
+Con mis dedos contaré.  
+Con mis dedos contaré.  
+Con mis dedos contaré.  
 
-Cuenten conmigo:
-Un, dos, tres dedos,
-cuatro, cinco, seis dedos,
-siete, ocho, nueve dedos,
-diez dedos son.
+Cuenten conmigo:  
+Un, dos, tres dedos,  
+cuatro, cinco, seis dedos,  
+siete, ocho, nueve dedos,  
+diez dedos son.  
 
-Con mis manos aplaudiré.
-Con mis manos aplaudiré.
-Con mis manos aplaudiré.
+Con mis manos aplaudiré.  
+Con mis manos aplaudiré.  
+Con mis manos aplaudiré.  
 
-Aplaudan conmigo:
-Uno, dos, tres aplausos,
-cuatro, cinco, seis aplausos,
-siete, ocho, nueve aplausos,
-diez aplausos son.
+Aplaudan conmigo:  
+Uno, dos, tres aplausos,  
+cuatro, cinco, seis aplausos,  
+siete, ocho, nueve aplausos,  
+diez aplausos son.  
 
-Con mis pies saltaré.
-Con mis pies saltaré.
-Con mis pies saltaré.
+Con mis pies saltaré.  
+Con mis pies saltaré.  
+Con mis pies saltaré.  
 
-Salten conmigo:
-Uno, dos, tres saltos,
-cuatro, cinco, seis saltos,
-siete, ocho, nueve saltos,
-diez saltos son.
-
-Ah.
+Salten conmigo:  
+Uno, dos, tres saltos,  
+cuatro, cinco, seis saltos,  
+siete, ocho, nueve saltos,  
+diez saltos son.  
 
 
-跟我一起数。
+跟我一起数。  
 
-我用我的手指来数。
-我用我的手指来数。
-我用我的手指来数。
+我用我的手指来数。  
+我用我的手指来数。  
+我用我的手指来数。  
 
-跟我一起数：
-一、二、三根手指，
-四、五、六根手指，
-七、八、九根手指，
-是十根手指。
+跟我一起数：  
+一、二、三根手指，  
+四、五、六根手指，  
+七、八、九根手指，  
+是十根手指。  
 
-我用我的手来拍手。
-我用我的手来拍手。
-我用我的手来拍手。
+我用我的手来拍手。  
+我用我的手来拍手。  
+我用我的手来拍手。  
 
-跟我一起拍手：
-一、二、三下掌声，
-四、五、六下掌声，
-七、八、九下掌声，
-是十下掌声。
+跟我一起拍手：  
+一、二、三下掌声，  
+四、五、六下掌声，  
+七、八、九下掌声，  
+是十下掌声。  
 
-我用我的脚来跳。
-我用我的脚来跳。
-我用我的脚来跳。
+我用我的脚来跳。  
+我用我的脚来跳。  
+我用我的脚来跳。  
 
-跟我一起跳：
-一、二、三下跳跃，
-四、五、六下跳跃，
-七、八、九下跳跃，
-是十下跳跃。
-
-啊。
+跟我一起跳：  
+一、二、三下跳跃，  
+四、五、六下跳跃，  
+七、八、九下跳跃，  
+是十下跳跃。  
 
 ---
 
@@ -359,38 +353,34 @@ Ah.
 
 #### 5
 
-A limpiar.
+A limpiar.  
 
-Con un gratísimo, felicísimo,
-es la hora de limpiar.
-Pongan las cosas en sus lugares,
-¡alegría, alegría, a limpiar!
-¡Alegría, alegría, a limpiar!
+Con un gratísimo, felicísimo,  
+es la hora de limpiar.  
+Pongan las cosas en sus lugares,  
+¡alegría, alegría, a limpiar!  
+¡Alegría, alegría, a limpiar!  
 
-Con un gratísimo, felicísimo,
-es la hora de limpiar.
-Pongan las cosas bien en sus lugares,
-¡alegría, alegría, a limpiar!
-¡Alegría, alegría, a limpiar!
-
-Ah.
+Con un gratísimo, felicísimo,  
+es la hora de limpiar.  
+Pongan las cosas bien en sus lugares,  
+¡alegría, alegría, a limpiar!  
+¡Alegría, alegría, a limpiar!  
 
 
-打扫。
+打扫。  
 
-带着非常愉快，非常高兴的心情，
-是时候打扫了。
-把东西放回它们的位置，
-高兴，高兴地打扫！
-高兴，高兴地打扫！
+带着非常愉快，非常高兴的心情，  
+是时候打扫了。  
+把东西放回它们的位置，  
+高兴，高兴地打扫！  
+高兴，高兴地打扫！  
 
-带着非常愉快，非常高兴的心情，
-是时候打扫了。
-把东西好好地放回它们的位置，
-高兴，高兴地打扫！
-高兴，高兴地打扫！
-
-啊。
+带着非常愉快，非常高兴的心情，  
+是时候打扫了。  
+把东西好好地放回它们的位置，  
+高兴，高兴地打扫！  
+高兴，高兴地打扫！  
 
 
 ---
@@ -399,28 +389,27 @@ Ah.
 
 #### 6
 
-Las Estaciones
+Las Estaciones    
 
-Ahora es primavera  
-ahora es primavera
-Llueve mucho por acá
-Llueve aquí, llueve allá, llueve mucho por acá
+Ahora es primavera pri pri pri      
+ahora es primavera    
+Llueve mucho por acá    
+Llueve aquí, llueve allá, llueve mucho por acá    
 
-Estamos en verano  
-estamos en verano
-Hace calor por acá
-Calor aquí, calor allá, hace calor por acá
+Estamos en verano fu fu fu      
+estamos en verano    
+Hace calor por acá    
+Calor aquí, calor allá, hace calor por acá      
 
-Ahora es otoño  
-ahora es otoño
-Hace viento por acá
-Viento aquí, viento allá, hace viento por acá
+Ahora es otoño whos whos whos       
+ahora es otoño    
+Hace viento por acá    
+Viento aquí, viento allá, hace viento por acá    
 
-Ya llegó el invierno 
-ya llegó el invierno
-Hace frío por acá
-Frío aquí, frío allá, hace frío por acá
-
+Ya llegó el invierno be be be      
+ya llegó el invierno    
+Hace frío por acá    
+Frío aquí, frío allá, hace frío por acá    
 
 
 ---
@@ -429,96 +418,96 @@ Frío aquí, frío allá, hace frío por acá
 
 #### 7
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta el **fútbol**.
-Me gusta el **fútbol**.
+Me gusta el **fútbol**.    
+Me gusta el **fútbol**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta el **baloncesto**.
-Me gusta el **baloncesto**.
+Me gusta el **baloncesto**.    
+Me gusta el **baloncesto**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta el **béisbol**.
-Me gusta el **béisbol**.
+Me gusta el **béisbol**.    
+Me gusta el **béisbol**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta **correr**.
-Me gusta **correr**.
+Me gusta **correr**.    
+Me gusta **correr**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta **nadar**.
-Me gusta **nadar**.
+Me gusta **nadar**.    
+Me gusta **nadar**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta **patinar**.
-Me gusta **patinar**.
+Me gusta **patinar**.  
+Me gusta **patinar**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
-Me gusta el **tenis**.
-Me gusta el **tenis**.
+Me gusta el **tenis**.    
+Me gusta el **tenis**.    
 
-¿Qué deporte te gusta?
-¿Qué deporte te gusta?
+¿Qué deporte te gusta?    
+¿Qué deporte te gusta?    
 
 
-你喜欢什么运动？
-你喜欢什么运动？
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-我喜欢**足球**。
-我喜欢**足球**。
+我喜欢**足球**。    
+我喜欢**足球**。    
 
-你喜欢什么运动？
-你喜欢什么运动？
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-我喜欢**篮球**。
-我喜欢**篮球**。
+我喜欢**篮球**。    
+我喜欢**篮球**。    
 
-你喜欢什么运动？
-你喜欢什么运动？
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-我喜欢**棒球**。
-我喜欢**棒球**。
+我喜欢**棒球**。    
+我喜欢**棒球**。    
+  
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-你喜欢什么运动？
-你喜欢什么运动？
+我喜欢**跑步**。    
+我喜欢**跑步**。    
 
-我喜欢**跑步**。
-我喜欢**跑步**。
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-你喜欢什么运动？
-你喜欢什么运动？
+我喜欢**游泳**。    
+我喜欢**游泳**。    
 
-我喜欢**游泳**。
-我喜欢**游泳**。
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-你喜欢什么运动？
-你喜欢什么运动？
+我喜欢**滑冰/滑旱冰**。    
+我喜欢**滑冰/滑旱冰**。    
 
-我喜欢**滑冰/滑旱冰**。
-我喜欢**滑冰/滑旱冰**。
+你喜欢什么运动？    
+你喜欢什么运动？    
 
-你喜欢什么运动？
-你喜欢什么运动？
+我喜欢**网球**。    
+我喜欢**网球**。    
 
-我喜欢**网球**。
-我喜欢**网球**。
-
-你喜欢什么运动？
-你喜欢什么运动？
+你喜欢什么运动？    
+你喜欢什么运动？    
 
 
 
@@ -529,13 +518,12 @@ Me gusta el **tenis**.
 
 #### 8
 
-Los Meses del Año
+Los Meses del Año    
 
-Enero Febrero Marzo 
-Abril Mayo Junio 
-Julio Agosto Septiembre 
-Octubre Noviembre Diciembre 
-
+Enero Febrero Marzo     
+Abril Mayo Junio     
+Julio Agosto Septiembre     
+Octubre Noviembre Diciembre     
 
 
 ---
@@ -544,15 +532,17 @@ Octubre Noviembre Diciembre
 
 #### 9
 
-Adiós, es hora de decir adiós
-De la clase de español
-Muchas cosas aprendí, por eso estoy feliz
-Que alegría me dio estar aquí
+Adiós
 
-Adiós, es hora de decir adiós
-De la clase de español
-Muchas cosas aprendí, por eso estoy feliz
-Que alegría me dio estar aquí
+Es hora de decir adiós    
+De la clase de español    
+Muchas cosas aprendí, por eso estoy feliz    
+Que alegría me dio estar aquí    
+
+Es hora de decir adiós    
+De la clase de español    
+Muchas cosas aprendí, por eso estoy feliz    
+Que alegría me dio estar aquí    
 
 
 
@@ -640,17 +630,35 @@ Hoy veo el cielo y va a llover. Ya veo las gotas caer y caer.
 14 
 Traigan sus pies.
 
-Traigan sus orejas Que vamos a escuchar. A todos los niños les gusta escuchar. Yo escucho, yo escucho, Yo escucho sin parar. Yo escucho, yo escucho, Yo escucho sin parar.
+Traigan sus orejas Que vamos a escuchar. 
+A todos los niños les gusta escuchar. 
+Yo escucho, yo escucho, Yo escucho sin parar. 
+Yo escucho, yo escucho, Yo escucho sin parar.
 
-Traigan sus bocas Que vamos a cantar. A todos los niños les gusta cantar. Yo canto, yo canto, Yo canto sin parar. Yo canto, yo canto, Yo canto sin parar.
+Traigan sus bocas Que vamos a cantar. 
+A todos los niños les gusta cantar. 
+Yo canto, yo canto, Yo canto sin parar. 
+Yo canto, yo canto, Yo canto sin parar.
 
-Traigan sus manos Que vamos a aplaudir. A todos los niños les gusta aplaudir. Yo aplaudo, yo aplaudo, Yo aplaudo sin parar. Yo aplaudo, yo aplaudo, Yo aplaudo sin parar.
+Traigan sus manos Que vamos a aplaudir. 
+A todos los niños les gusta aplaudir. 
+Yo aplaudo, yo aplaudo, Yo aplaudo sin parar. 
+Yo aplaudo, yo aplaudo, Yo aplaudo sin parar.
 
-Traigan sus pies Que vamos a jugar. A todos los niños les gusta jugar. Yo juego, yo juego, Yo juego sin parar. Yo juego, yo juego, Yo juego sin parar.
+Traigan sus pies Que vamos a jugar. 
+A todos los niños les gusta jugar. 
+Yo juego, yo juego, Yo juego sin parar. 
+Yo juego, yo juego, Yo juego sin parar.
 
-Traigan sus cuerpos Que vamos a bailar. A todos los niños les gusta bailar. Yo bailo, yo bailo, Yo bailo sin parar. Yo bailo, yo bailo, Yo bailo sin parar.
+Traigan sus cuerpos Que vamos a bailar. 
+A todos los niños les gusta bailar. 
+Yo bailo, yo bailo, Yo bailo sin parar. 
+Yo bailo, yo bailo, Yo bailo sin parar.
 
-Traigan sus ojos Que vamos a mirar. A todos los niños les gusta mirar. Yo miro, yo miro, Yo miro sin parar. Yo miro, yo miro, Yo miro sin parar.
+Traigan sus ojos Que vamos a mirar. 
+A todos los niños les gusta mirar. 
+Yo miro, yo miro, Yo miro sin parar. 
+Yo miro, yo miro, Yo miro sin parar.
 
 带上你们的脚。
 
@@ -668,7 +676,7 @@ Traigan sus ojos Que vamos a mirar. A todos los niños les gusta mirar. Yo miro,
 
 
 15 
-we pray TINI's part 
+we pray TINI's part  1:26 ~ 1:54  
 
 Hay que aceptarlo, 
 Si nos perdimos, fue tal vez para encontrarnos, 
